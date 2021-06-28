@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851963554987",
+    "firebase_url": "https://rc-smart-home.firebaseio.com",
+    "project_id": "rc-smart-home",
+    "storage_bucket": "rc-smart-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851963554987:android:97363d7066d19101",
+        "android_client_info": {
+          "package_name": "hk.edu.polyu.comp.a16098521d.rc_smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851963554987-99f1rl177c5ab1040idvif853696m8e1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hk.edu.polyu.comp.a16098521d.rc_smart_home",
+            "certificate_hash": "bc70793459aacedf9993c1cff6760eea3521c1de"
+          }
+        },
+        {
+          "client_id": "851963554987-c0o65djrobs8g24t3upokj868dr2lrr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-o7DhoCv8FiGFiLRChHb0rD6RXdno6vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851963554987-c0o65djrobs8g24t3upokj868dr2lrr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
